@@ -17,7 +17,7 @@ Switch to the project folder
 
 <pre>
 <code>
-  cd logistic-regression
+  cd random-forest
 </code>
 </pre>
 
